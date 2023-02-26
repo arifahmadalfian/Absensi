@@ -44,7 +44,7 @@ fun PhoneAuthScreen(
             Spacer(modifier = Modifier.height(20.dp))
             OutlinedTextField(value = mobile, onValueChange = {
                 mobile = it
-            }, label = {Text("+91")}, modifier = Modifier.fillMaxWidth())
+            }, label = {Text("+62")}, modifier = Modifier.fillMaxWidth())
             Spacer(modifier = Modifier.height(20.dp))
             Button(onClick = {
                 scope.launch(Dispatchers.Main){

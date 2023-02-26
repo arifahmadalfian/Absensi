@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "436970258370",
+    "firebase_url": "https://absensi-39bfb-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "absensi-39bfb",
     "storage_bucket": "absensi-39bfb.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "436970258370-ah7pcv9ekvsdji9dnpl4t3ts9ik7noi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arifahmadalfian.absensi",
+            "certificate_hash": "6bf49281963c2bc68c5ed1026a3d793a91a2ca1d"
+          }
+        },
         {
           "client_id": "436970258370-p88b1m0r78sf9rrta18o8mhvf93jevmq.apps.googleusercontent.com",
           "client_type": 3
